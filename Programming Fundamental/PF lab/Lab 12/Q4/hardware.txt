@@ -1,0 +1,10 @@
+
+3 -- ElectricSander -- 7 -- 58.0
+17 -- Hammer -- 76 -- 12.0
+24 -- JigSaw -- 21 -- 11.0
+39 -- LawnMover -- 3 -- 79.5
+56 -- PowerSaw -- 18 -- 100.0
+68 -- ScrewDriver -- 106 -- 7.0
+77 -- SledgeHammer -- 11 -- 21.5
+83 -- Wrench -- 34 -- 7.5
+

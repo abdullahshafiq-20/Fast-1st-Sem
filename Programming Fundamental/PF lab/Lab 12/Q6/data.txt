@@ -1,0 +1,58 @@
+
+
+ID: 4489
+Name: Abdullah
+Department: BSCS
+Batch: 2022
+Section: D
+CGPA: 3.000000
+
+ID: 23
+Name: abdullah
+Department: cs
+Batch: 2022
+Section: d
+CGPA: 3.900000
+
+ID: 23
+Name: dsfs
+Department: e
+Batch: 1022
+Section: d
+CGPA: 3.000000
+
+ID: 12
+Name: Abdullah
+Department: cs
+Batch: 2022
+Section: d
+CGPA: 3.000000
+
+ID: 12
+Name: afda
+Department: sad
+Batch: 20
+Section: d
+CGPA: 2.300000
+
+ID: 4489
+Name: Abdullah
+Department: BS(CS)
+Batch: 2022
+Section: D
+CGPA: 3.900000
+
+ID: 4489
+Name: Abdullah
+Department: cs
+Batch: 2022
+Section: d
+CGPA: 3.400000
+
+ID: 4415
+Name: asghar
+Department: cs
+Batch: 2022
+Section: d
+CGPA: 3.900000
+

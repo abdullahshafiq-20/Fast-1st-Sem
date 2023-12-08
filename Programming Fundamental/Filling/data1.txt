@@ -1,0 +1,2 @@
+G names---Lung cell----Skincell------Intcell------livercell------Kidneycell
+ gene1 	2.3 		2.3 		2.3 		2.0 		3.2
